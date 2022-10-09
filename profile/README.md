@@ -13,4 +13,5 @@ Unlike other systems, our system focuses on security and brings the following pr
 
 And Control From Anywhere in the World
 
-such features can be mentioned.
+such features can be mentioned and [join our community](https://discord.gg/4jBJaCYYHm).
+
